@@ -11,3 +11,5 @@ Software: XAMPP v. 3.2.4
 * Host: 127.0.0.1
 * Server-Version: 10.4.13-MariaDB
 * PHP-Version: 7.4.7
+
+For educational purposes
