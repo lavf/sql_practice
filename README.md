@@ -1,6 +1,6 @@
-# sql_practice
+# MySQL - MariaDB
 
-SQL practice and homeworks
+MySQL practice and homeworks
 
 Software: XAMPP v. 3.2.4
 
